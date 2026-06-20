@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://lohithreddy.vercel.app/" target="_blank">
+  <a href="https://lohithreddy-profile.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
